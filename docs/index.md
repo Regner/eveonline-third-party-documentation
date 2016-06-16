@@ -1,6 +1,6 @@
 # Home
 ## Welcome to the Third-Party Developer(s) Documentation for EVE Online.
-This is a new community supported repository for instructions and guidance that is useful for those making third-party tools for EVE.
+This is a community supported repository for instructions and guidance that is useful for those making third-party tools for EVE.
 
 It is intended to always be a living document, and the plan is for it to be frequently updated to reflect changes in the APIs and/or services. At present it is very much a work in progress and much of the content is yet to be written. The main focus so far has been on the SSO and CREST, as these are new services, which have not yet had extensive third party documentation efforts, and get asked about frequently on the [technology lab forums](https://forums.eveonline.com/default.aspx?g=topics&f=263).
 

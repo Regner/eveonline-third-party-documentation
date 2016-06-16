@@ -1,5 +1,6 @@
 # Formulas
 
-* [Warp-in Points](warpinpoints.md)
-* [Skillpoints](skillpoints.md)
 * [Combat](combat.md)
+* [Industry](industry.md)
+* [Skillpoints](skillpoints.md)
+* [Warp-in Points](warpinpoints.md)

@@ -1223,11 +1223,11 @@ They define hangars or slots where an item may reside. It should be noted that i
         </tr>
         <tr>
             <td align="right">1</td>
-            <td>Active</td>
+            <td>Installed</td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td>Paused (Facility Offline)</td>
+            <td>Paused/Facility Offline</td>
         </tr>
         <tr>
             <td align="right">3</td>
@@ -1244,6 +1244,14 @@ They define hangars or slots where an item may reside. It should be noted that i
         <tr>
             <td align="right">103</td>
             <td>Reverted</td>
+        </tr>
+        <tr>
+            <td align="right">104</td>
+            <td>Succeeded</td>
+        </tr>
+        <tr>
+            <td align="right">105</td>
+            <td>Failed</td>
         </tr>
     </tbody>
 </table>
